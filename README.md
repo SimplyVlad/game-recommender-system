@@ -5,12 +5,12 @@ A recommender engine based on data obtained by Steam Australia. It uses collabor
 This recommender engine can be used for bootstrapping a game blog with personalized content, as the users have come to expect personalized recommendation after the advent of Facebook, Google and Netflix.
 
 ## Sources
-Data: <br>
+### Data: <br>
 Apurva Pathak, Kshitiz Gupta, Julian McAuley Generating and Personalizing Bundle Recommendations on Steam. SIGIR, 2017.
 Wang-Cheng Kang, Julian McAuley Self-attentive sequential recommendation. ICDM, 2018. <br>
 Apurva Pathak, Kshitiz Gupta, Julian McAuley Item recommendation on monotonic behavior chains. RecSys, 2018. <br> <br>
-Useful links: <br>
-https://towardsdatascience.com/building-a-recommendation-system-with-spark-ml-and-elasticsearch-abbd0fb59454
+### Useful links: <br>
+https://towardsdatascience.com/building-a-recommendation-system-with-spark-ml-and-elasticsearch-abbd0fb59454 <br>
 https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-2-alternating-least-square-als-matrix-4a76c58714a1
 
 
